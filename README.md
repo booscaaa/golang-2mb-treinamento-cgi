@@ -1,4 +1,4 @@
-<img src="https://github.com/booscaaa/treinamento-cgi-golang-2mb/tree/master/readm-files/cgi.png" />
+<img src="https://github.com/booscaaa/golang-2mb-treinamento-cgi/blob/master/readme-files/cgi.png" />
 # Desafio imagem go < 2mb - Treinamento CGI Software
 
 #### Realização do desafio junto com a empresa CGI Software de como gerar uma imagem com menos de 2 megas com Golang.
@@ -17,7 +17,7 @@ docker build -t booscaaa/golang-build-2mb .
 ```bash
 docker image ls
 ```
-<img src="https://github.com/booscaaa/treinamento-cgi-golang-2mb/tree/master/readm-files/image-size.PNG" />
+<img src="https://github.com/booscaaa/golang-2mb-treinamento-cgi/blob/master/readme-files/image-size.PNG" />
 
 <br>
 <br>
