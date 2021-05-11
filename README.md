@@ -1,4 +1,5 @@
 <img src="https://github.com/booscaaa/golang-2mb-treinamento-cgi/blob/master/readme-files/cgi.png" />
+
 # Desafio imagem go < 2mb - Treinamento CGI Software
 
 #### Realização do desafio junto com a empresa CGI Software de como gerar uma imagem com menos de 2 megas com Golang.
